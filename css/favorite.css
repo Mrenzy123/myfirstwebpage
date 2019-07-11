@@ -1,0 +1,22 @@
+body {
+    background-color: #FFFF00;
+    font-size: 20px;
+    color: green;
+    font-weight: 400;
+}
+h1 {
+    color: #336600;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+   font-style: italic;
+   line-height: 50px;
+}
+strong {
+    font-style: italic;
+}
+em {
+    font-weight: 800;
+}
